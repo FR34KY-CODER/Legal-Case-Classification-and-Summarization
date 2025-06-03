@@ -1,8 +1,8 @@
 # ⚖️ Legal Case Classifier & Summariser
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/law/law.png" width="120" alt="Legal NLP Icon"/>
-</p>
+#<p align="center">
+# <img src="https://raw.githubusercontent.com/github/explore/main/topics/law/law.png" width="120" alt="Legal NLP Icon"/>
+#</p>
 
 An end-to-end GPU-accelerated pipeline to scrape, classify, and summarise Indian legal case documents. Built for scale, tuned for precision.
 
@@ -25,22 +25,6 @@ An end-to-end GPU-accelerated pipeline to scrape, classify, and summarise Indian
 - 📝 T5/BART-based summarization via HuggingFace or local inference.
 - ⚡ CUDA-enabled for fast training and inference.
 - 🧩 Modular pipeline design.
-
----
-
-## 🏗️ Architecture
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dair-ai/Prompt-Engineering-Guide/main/images/langchain-flow.png" width="800" alt="Pipeline Diagram"/>
-</p>
-
----
-
-## 🔎 Sample Output
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fastai/fastbook/master/images/attn.gif" width="700" alt="Transformer Summary Demo"/>
-</p>
 
 ---
 
