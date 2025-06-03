@@ -1,7 +1,7 @@
 # ⚖️ Legal Case Classifier & Summariser
 
 <p align="center">
-<img src="https://github.com/FR34KY-CODER/Legal-Case-Classification-and-Summarization/blob/main/image.png" width="120" alt="Legal NLP Icon"/>
+<img src="https://github.com/FR34KY-CODER/Legal-Case-Classification-and-Summarization/blob/main/image.png" alt="Legal NLP Icon"/>
 </p>
 
 An end-to-end GPU-accelerated pipeline to scrape, classify, and summarise Indian legal case documents. Built for scale, tuned for precision.
